@@ -4,7 +4,7 @@ import Footer from "./components/footer";
 import './App.scss';
 
 function App() {
-  return (
+  return (  
     <div>
 App    </div>
   );
